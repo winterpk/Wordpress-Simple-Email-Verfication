@@ -2,7 +2,7 @@
 Contributors: winterpk
 Tags: registration, verification, user, auth
 Requires at least: 3.0.1
-Tested up to: 4.1.1
+Tested up to: 4.2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,7 +15,7 @@ instead of the generated password email. It will create a new role type "Unverif
 
 == Installation ==
 
-1. Upload `email-verification` folder to the `/wp-content/plugins/` directory
+1. Upload to the `/wp-content/plugins/simple-email-verification` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
